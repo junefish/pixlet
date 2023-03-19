@@ -14,12 +14,12 @@ load("time.star", "time")
 
 # Define some constants
 DEFAULT_LOCATION = {
-    "lat": 46.94668030086369,
-    "lng": 7.421647969798374,
-    "locality": "Bern",
+    "lat": 40.736864,
+    "lng": -74.067219,
+    "locality": "Jersey City",
 }
 
-DEFAULT_TIMEZONE = "Europe/Zurich"
+DEFAULT_TIMEZONE = "America/New_York"
 
 MAX_VALUE = 2048
 
