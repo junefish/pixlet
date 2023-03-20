@@ -1,4 +1,10 @@
-# source: https://github.com/tidbyt/community/blob/main/apps/todayinhistory/today_in_history.star
+"""
+Applet: Today in History
+Summary: Wikipedia events from today's date
+Description: This applet looks at Wikipedia for events for the current date, and parses them into Births, Deaths and Events. It picks one of those events and displays it.
+Author: amkimian
+Source: https://github.com/tidbyt/community/blob/main/apps/todayinhistory/today_in_history.star
+"""
 
 load("cache.star", "cache")
 load("encoding/json.star", "json")
