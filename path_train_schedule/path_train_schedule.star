@@ -1,3 +1,11 @@
+"""
+Applet: PATH Train Schedule
+Summary: PATH train schedule
+Description: Displays inbound and outbound PATH trains to NY/NJ.
+Author: tsgreenberg1217
+Source: https://github.com/tidbyt/community/blob/main/apps/pathtrainschedule/path_train_schedule.star
+"""
+
 """imports"""
 
 load("http.star", "http")
